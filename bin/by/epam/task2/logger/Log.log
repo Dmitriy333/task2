@@ -1,0 +1,42 @@
+13.08.2014 22:36:49 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name propety.prop, locale by_BE
+13.08.2014 22:39:09 [main] ERROR by.epam.task2.parser.Parser  - java.io.FileNotFoundException: resources\test.txt (Не удается найти указанный файл)Ошибка при чтении файла
+13.08.2014 22:41:15 [main] ERROR by.epam.task2.parser.Parser  - java.io.FileNotFoundException: resources\test.txt (Не удается найти указанный файл)Ошибка при чтении файла
+13.08.2014 22:41:56 [main] ERROR by.epam.task2.parser.Parser  - java.io.FileNotFoundException: resources\test.txt (Не удается найти указанный файл)Ошибка при чтении файла
+13.08.2014 22:44:07 [main] ERROR by.epam.task2.parser.Parser  - java.io.FileNotFoundException: resources\test.txt (Не удается найти указанный файл)Ошибка при чтении файлаfff
+13.08.2014 22:47:24 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name propety.prop, locale by_BE
+13.08.2014 22:47:24 [main] ERROR by.epam.task2.parser.Parser  - java.io.FileNotFoundException: resources\test.txt (Не удается найти указанный файл)Ошибка при чтении файла
+13.08.2014 22:48:08 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name propety.prop, locale by_BEСчитывание файла регулярных выражений
+13.08.2014 22:48:08 [main] ERROR by.epam.task2.parser.Parser  - java.io.FileNotFoundException: resources\test.txt (Не удается найти указанный файл)Ошибка при чтении файла
+13.08.2014 22:49:34 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name propety.prop, locale by_BEСчитывание файла регулярных выражений
+13.08.2014 22:49:34 [main] ERROR by.epam.task2.parser.Parser  - java.io.FileNotFoundException: resources\test.txt (Не удается найти указанный файл)Ошибка при чтенииresources/test.txt файла
+13.08.2014 22:49:48 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name propety.prop, locale by_BEСчитывание файла регулярных выражений
+13.08.2014 22:49:48 [main] ERROR by.epam.task2.parser.Parser  - java.io.FileNotFoundException: resources\test.txt (Не удается найти указанный файл)Ошибка при чтенииresources/test.txt файла
+13.08.2014 22:50:52 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name propety.prop, locale by_BEСчитывание файла регулярных выражений
+13.08.2014 22:50:52 [main] ERROR by.epam.task2.parser.Parser  - java.io.FileNotFoundException: resources\test.txt (Не удается найти указанный файл)Ошибка при чтении файла resources/test.txt
+13.08.2014 22:52:31 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name propety.prop, locale by_BEСчитывание файла регулярных выражений
+13.08.2014 22:52:31 [main] ERROR by.epam.task2.parser.Parser  - java.io.FileNotFoundException: resources\test.txt (Не удается найти указанный файл)Ошибка при чтении файла resources/test.txt
+13.08.2014 22:53:46 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name propety.prop, locale by_BE Считывание файла регулярных выражений
+13.08.2014 22:53:46 [main] ERROR by.epam.task2.parser.Parser  - java.io.FileNotFoundException: resources\test.txt (Не удается найти указанный файл)Ошибка при чтении файла resources/test.txt
+13.08.2014 22:54:02 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name propety.prop, locale by_BE Считывание файла регулярных выражений
+13.08.2014 22:54:51 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name propety.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:35:21 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:36:34 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name src\property\property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:38:25 [main] ERROR by.epam.task2.parser.Parser  - java.io.FileNotFoundException: resources\test2.txt (Не удается найти указанный файл) Ошибка при чтении файла resources/test2.txt
+14.08.2014 11:40:58 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:42:21 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:46:47 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:47:32 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:48:33 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:48:59 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:49:26 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:49:32 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:50:27 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name src/property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:50:36 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name src\property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:50:51 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name bin/property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:50:58 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name bin\property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:51:16 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name bin\property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:51:50 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop.properties, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:52:09 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:52:29 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:55:13 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop, locale by_BE Считывание файла регулярных выражений
+14.08.2014 11:55:49 [main] ERROR by.epam.task2.logic.Bundle  - java.util.MissingResourceException: Can't find bundle for base name property.prop, locale by_BE Считывание файла регулярных выражений
