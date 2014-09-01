@@ -7,6 +7,7 @@ import by.epam.task2.substance.Composite;
 import by.epam.task2.substance.CompositeElements;
 import by.epam.task2.substance.Word;
 
+
 public class SentenceComparator implements Comparator<Component> {
 	private int countWordsInSentence(Component sentence) {
 		int count = 0;
